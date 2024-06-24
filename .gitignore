@@ -1,15 +1,30 @@
-*.[ao]
-*.mo
-*.la
-*.lo
-.deps
-.libs
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-CMakeFiles
-CMakeCache.txt
-Makefile
-Makefile.in
-config.h
-cmake_install.cmake
-cmake_uninstall.cmake
-install_manifest.txt
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/dist
+
+# ENV
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE
+.idea
+.vscode
+
+# macOS
+.DS_Store
