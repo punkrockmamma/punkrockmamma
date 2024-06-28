@@ -1,34 +1,14 @@
-# Understanding Deep Learning
+# Anime-Girls-Holding-Programming-Books
+Anime Girls Holding Programming Books
 
-Understanding Deep Learning - Simon J.D. Prince
+# Contribution Guidelines
 
-## Website
+* __NSFW images aren't allowed due to [Github Site Policy](https://docs.github.com/en/site-policy);__
 
-```shell
-# Install dependencies
-npm install
+* Pictures can't be related to cryptocurrency or its technologies;
+* Images must have descriptive file names in the following format (The file doesn't have to be "png" format, this is just an example):
+    Name_Name_Book_Book.png
 
-# Run the website in development mode
-npm dev
+* Add your images to the folder that best describes the subject matter of the book that the girl is holding. If no existing folder applies, create a new one. The simpler the name, the better;
 
-# Build the website
-npm build
-
-# Preview the built website
-npm preview
-
-# Format the code
-npm run format
-
-# Lint the code
-npm run lint
-
-# Clean the repository
-npm run clean
-
-# Prepare to deploy the website
-npm run predeploy
-
-# Deploy the website
-npm run deploy
-```
+* All characters must be female presenting (either canonically female or look/act like girls).
